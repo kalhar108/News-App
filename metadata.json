@@ -1,0 +1,5 @@
+{
+  "name": "NewsFlow AI Platform",
+  "description": "An end-to-end simulation of a multi-agent news analysis pipeline using Gemini 2.5 Flash. features real-time ingestion, LLM enrichment, event clustering, and analytics.",
+  "requestFramePermissions": []
+}
